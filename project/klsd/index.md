@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 卡包
-      link: /project/klsd/index.md
+      link: ./packs/index.md
     - theme: alt
       text: 卡片资料
       link: ./templates/卡片模板.md
@@ -21,9 +21,3 @@ features:
   - title: 卡灵时代
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
-233
-
-<!-- {{ $params.pkg }} -->
-
-222
